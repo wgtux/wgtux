@@ -1,6 +1,6 @@
 ### Bem Vindo ao meu Perfil 👋
 
-Atualmente trabalho com Front e Backend
+
 <!--
 **wgtux/wgtux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá eu sou a Weslen Almeida! Bem Vindo ao meu Perefil
+## Olá eu sou a Weslen Almeida! e atualmente trabalho com Front e Backend
 <div align="center">
   <a href="https://github.com/wgtux">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wgtux&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 <div> 
 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/wgtux/wgtux/blob/output/github-contribution-grid-snake.svg)
  
 </div>
