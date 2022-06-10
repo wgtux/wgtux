@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Olá eu sou a Weslen Almeida! e descobri na programação a oportunidade de impactar pessoas com novas tecnologias e de alguma forma consegui facilitar o dia a dia usando esse habilidade tão especial, de construir facilitadores utilizando códigos. Agora me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronto para conseguir impactar cada vez mais vidas e rotinas utilizando a programação!
+Olá eu sou Weslen Almeida! e descobri na programação a oportunidade de impactar pessoas com novas tecnologias e de alguma forma consegui facilitar o dia a dia usando essa habilidade tão especial, de construir facilitadores utilizando códigos. Agora me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronto para conseguir impactar cada vez mais vidas e rotinas utilizando a programação!
 Atualmente trabalho como desenvolvedor Fullstack. 
 <div align="center">
   <a href="https://github.com/wgtux">
