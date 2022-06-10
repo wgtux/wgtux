@@ -16,14 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá eu sou a Weslen Almeida! e atualmente trabalho com Front(html, css, javascript e VueJs) e Backend(Php)
+Olá eu sou a Weslen Almeida! e descobri na programação a oportunidade de impactar pessoas com novas tecnologias e de alguma forma consegui facilitar o dia a dia usando esse habilidade tão especial, de construir facilitadores utilizando códigos. Agora me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronto para conseguir impactar cada vez mais vidas e rotinas utilizando a programação!
+Atualmente trabalho como desenvolvedor Fullstack. 
 <div align="center">
   <a href="https://github.com/wgtux">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wgtux&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgtux&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
- 
+ ## Tecnologias e Experiências
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Weslen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -33,8 +34,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Weslen-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
   <img align="center" alt="Weslen-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Weslen-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-  
-
+  <img align="center" alt="Weslen-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+          
 </div>
   
   ##
@@ -47,7 +48,7 @@ Here are some ideas to get you started:
     <a href="https://instagram.com/weslengomesalmeida" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
   
- 
-  ![Snake animation](https://github.com/wgtux/wgtux/blob/output/github-contribution-grid-snake.svg)
+<!--  
+  ![Snake animation](https://github.com/wgtux/wgtux/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
