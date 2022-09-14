@@ -16,14 +16,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Olá eu sou Weslen Almeida! e descobri na programação a oportunidade de impactar pessoas com novas tecnologias e de alguma forma consegui facilitar o dia a dia usando essa habilidade tão especial, de construir facilitadores utilizando códigos. Agora me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronto para conseguir impactar cada vez mais vidas e rotinas utilizando a programação!
+Olá eu sou Weslen Almeida! e descobri na programação a oportunidade de impactar pessoas com novas tecnologias e de alguma forma consegui facilitar o dia a dia usando essa habilidade tão especial de construir facilitadores utilizando códigos. Agora me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronto para conseguir impactar cada vez mais vidas e rotinas utilizando a programação!
 Atualmente trabalho como desenvolvedor Fullstack. 
+  
+
 <div align="center">
   <a href="https://github.com/wgtux">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wgtux&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgtux&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
+ 
+  ## Estudando atualmente
+ - Dart
+ - Flutter
+ - Mobile
+ 
  ## Tecnologias e Experiências
   
 <div style="display: inline_block"><br>
@@ -33,9 +40,8 @@ Atualmente trabalho como desenvolvedor Fullstack.
   <img align="center" alt="Weslen-VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Weslen-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
   <img align="center" alt="Weslen-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Weslen-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-  <img align="center" alt="Weslen-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-          
+  <img align="center" alt="Weslen-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+  <img align="center" alt="Weslen-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />        
 </div>
   
   ##
